@@ -7,7 +7,7 @@ This is a list of the JSON data that makes up the webhooks for the Shock Tops gu
 ![Shock Tops Discord Profession Template](https://cdn.discordapp.com/attachments/764258885711167521/769320557811466320/unknown.png)
 
 ## Contributing
-- If you're unfamiliar with Github, [create a new issue](https://github.com/ReynoldsCahoon/shocktops-professions/issues/new) to submit requests for changes. Please include detailed information (screenshots work too!) regarding the profession and recipe(s) you're submitting. Include your Discord username and ingame character name.
+- If you're unfamiliar with Github, [create a new issue](https://github.com/ReynoldsCahoon/shocktops-professions/issues) to submit requests for changes. Please include detailed information (screenshots work too!) regarding the profession and recipe(s) you're submitting. Include your Discord username and ingame character name.
 - If you're familiar with Github, fork this repo and issue a pull request with the changes you'd like to see.
 
 ## Updating Discord Posts
