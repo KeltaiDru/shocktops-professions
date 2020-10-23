@@ -44,6 +44,11 @@
           "name": "Ballus",
           "value": "❓",
           "inline": true
+        },
+        {
+          "name": "Zahrim",
+          "value": "<@!232964521512140801>",
+          "inline": true
         }
       ],
       "image": {
@@ -95,7 +100,7 @@
         },
         {
           "name": "Elixir of Giants",
-          "value": "Keltai, Antah, Diemondy",
+          "value": "Keltai, Antah, Diemondy, Zahrim",
           "inline": true
         },
         {
@@ -169,7 +174,7 @@
         },
         {
           "name": "Limited Invulnerability Potion",
-          "value": "Keltai, Antah",
+          "value": "Keltai, Antah, Zahrim",
           "inline": true
         },
         {
@@ -179,7 +184,7 @@
         },
         {
           "name": "Invisibility Potion",
-          "value": "NA",
+          "value": "Zahrim",
           "inline": true
         },
         {
@@ -205,6 +210,11 @@
         {
           "name": "Major Rejuvenation Potion",
           "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Free Action Potion",
+          "value": "Zahrim",
           "inline": true
         }
       ],
