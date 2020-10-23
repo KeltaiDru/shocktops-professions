@@ -1,0 +1,423 @@
+{
+  "content": "The information provided here was sourced from a [Google Doc](https://docs.google.com/spreadsheets/d/e/2PACX-1vSx4pRRwgtJpzY1OXmmTUppEHKNKhMzciQMJx6cEB6qRSrHIJJsOzqN_ihg52oHLP4TZcsiWNQD32b8/pubhtml#) created and maintained by <@!164816118081519616> with formatting and additions by <@!95628962855653376>.",
+  "embeds": [
+    {
+      "title": "Guild Enchanters",
+      "color": 16745728,
+      "fields": [
+        {
+          "name": "Kaizor",
+          "value": "<@!188309041687035904>",
+          "inline": true
+        },
+        {
+          "name": "Behemoth",
+          "value": "<@!164816118081519616>",
+          "inline": true
+        },
+        {
+          "name": "Cenarios",
+          "value": "<@!395333773031505920>",
+          "inline": true
+        },
+        {
+          "name": "Villainous",
+          "value": "❓",
+          "inline": true
+        },
+        {
+          "name": "Croup",
+          "value": "<@!762342839941988394>",
+          "inline": true
+        }
+      ],
+      "image": {
+        "url": "https://www.mamytwink.com/upload/news/2019/aout/27/guide-enchantement-classic.jpg"
+      }
+    },
+    {
+      "title": "2H Weapon",
+      "fields": [
+        {
+          "name": "Agility | +25 Agility",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Major Intellect | +9 Intellect",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Major Spirit | +9 Spirit",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Superior Impact | +9 Damage",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_axe_09.jpg"
+      }
+    },
+    {
+      "title": "Weapon",
+      "fields": [
+        {
+          "name": "Strength | +15 Strength",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Agility | +15 Agility",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Superior Striking | +5 Damage",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Lifestealing",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Fiery Weapon",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Crusader",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Demonslaying",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Healing Power | +55 Healing",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Icy Chill",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Mighty Spirit | +20 Spirit",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Mighty Intellect | +22 Intellect",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Spell Power | +30 Spell Damage",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Unholy Weapon",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Winter's Might | +7 Frost Spell Damage",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_sword_04.jpg"
+      }
+    },
+    {
+      "title": "Shield",
+      "fields": [
+        {
+          "name": "Superior Spirit | +9 Spirit",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Lesser Block | +2% Block",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Stamina | +7 Stamina",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Frost Resistance | +8 Frost Resistance",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_shield_09.jpg"
+      }
+    },
+    {
+      "title": "Cloak",
+      "fields": [
+        {
+          "name": "Greater Resistance | +5 All Resistances",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Greater Fire Resistance | +15 Fire Resistance",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Greater Nature Resistance | +15 Nature Resistance",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Dodge | +1% Dodge",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Lesser Agility | +3 Agility",
+          "value": "Cenarios",
+          "inline": true
+        },
+        {
+          "name": "Stealth",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Subtlety | -2% Threat",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Superior Defense | +70 Armor",
+          "value": "Kaizor",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_misc_cape_17.jpg"
+      }
+    },
+    {
+      "title": "Bracer",
+      "fields": [
+        {
+          "name": "Deflection | +3 Defense",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Intellect | +7 Intellect",
+          "value": "Cenarios",
+          "inline": true
+        },
+        {
+          "name": "Greater Spirit | +7 Spirit",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Stamina | +7 Stamina",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Healing Power | +24 Healing",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Mana Regeneration | +4 Mana per 5",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Superior Spirit | +9 Spirit",
+          "value": "Behemoth, Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Superior Stamina | +9 Stamina",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Superior Strength | +9 Strength",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_bracer_07.jpg"
+      }
+    },
+    {
+      "title": "Boots",
+      "fields": [
+        {
+          "name": "Greater Agility | +7 Agility",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Greater Stamina | +7 Stamina",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Spirit | +5 Spirit",
+          "value": "Kaizor",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_boots_05.jpg"
+      }
+    },
+    {
+      "title": "Gloves",
+      "fields": [
+        {
+          "name": "Threat | +2% Threat",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Riding Skill",
+          "value": "Cenarios, Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Superior Agility | +15 Agility",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Agility | +7 Agility",
+          "value": "Cenarios",
+          "inline": true
+        },
+        {
+          "name": "Greater Strength | +7 Strength",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Shadow Power | +20 Shadow Damage",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Frost Power | +20 Frost Damage",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Fire Power | +20 Fire Damage",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Healing Power | +20",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Skinning | +5 Skinning",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Advanced Mining | +5 Mining",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Advanced Herbalism | +5 Herbalism",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_gauntlets_05.jpg"
+      }
+    },
+    {
+      "title": "Chest",
+      "fields": [
+        {
+          "name": "Greater Stats | +4 All Stats",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Major Mana | +100 Mana",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Major Health | +100 Health",
+          "value": "Kaizor",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_chest_chain.jpg"
+      }
+    },
+    {
+      "title": "Oils",
+      "fields": [
+        {
+          "name": "Brilliant Wizard Oil | +36 Spell Damage, +1% Spell Crit",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Brilliant Mana Oil | +25 Spell Heal, +12 Mana per 5",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Wizard Oil | +24 Spell Damage",
+          "value": "Kaizor",
+          "inline": true
+        },
+        {
+          "name": "Lesser Mana Oil | +8 Mana per 5",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Lesser Wizard Oil | +16 Spell Damage",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_potion_105.jpg"
+      }
+    }
+  ],
+  "username": "Enchanting",
+  "avatar_url": "https://wow.zamimg.com/images/wow/icons/large/trade_engraving.jpg"
+}
