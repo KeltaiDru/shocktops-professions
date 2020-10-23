@@ -1,0 +1,218 @@
+{
+  "content": "The information provided here was sourced from a [Google Doc](https://docs.google.com/spreadsheets/d/e/2PACX-1vSx4pRRwgtJpzY1OXmmTUppEHKNKhMzciQMJx6cEB6qRSrHIJJsOzqN_ihg52oHLP4TZcsiWNQD32b8/pubhtml#) created and maintained by <@!164816118081519616> with formatting and additions by <@!95628962855653376>.",
+  "embeds": [
+    {
+      "title": "Guild Alchemists",
+      "color": 16745728,
+      "fields": [
+        {
+          "name": "Gregsy",
+          "value": "<@!94164154918653952>",
+          "inline": true
+        },
+        {
+          "name": " Junglemasive",
+          "value": "<@!345196816041508867>",
+          "inline": true
+        },
+        {
+          "name": "Kaizor",
+          "value": "<@!188309041687035904>",
+          "inline": true
+        },
+        {
+          "name": "Keltai",
+          "value": "<@!560492873485910017>",
+          "inline": true
+        },
+        {
+          "name": "Pyr",
+          "value": "<@!724336909362659397>?, <@!727243462864535573>?, <@!727256931806347324>?",
+          "inline": true
+        },
+        {
+          "name": "Antah",
+          "value": "<@!229370572881002496>",
+          "inline": true
+        },
+        {
+          "name": "Diemondy",
+          "value": "<@!164816118081519616>",
+          "inline": true
+        },
+        {
+          "name": "Ballus",
+          "value": "❓",
+          "inline": true
+        }
+      ],
+      "image": {
+        "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7e6919d5-5590-4d23-a2d3-f040caed8ad1/d4gcwcc-89344d08-4c7b-4c17-b8d9-f81fab0ac49e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvN2U2OTE5ZDUtNTU5MC00ZDIzLWEyZDMtZjA0MGNhZWQ4YWQxXC9kNGdjd2NjLTg5MzQ0ZDA4LTRjN2ItNGMxNy1iOGQ5LWY4MWZhYjBhYzQ5ZS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.3Ylsm6Y8aG1JVI_6_LOK8YPqQL1hOQjjPOu4a_aXjzA"
+      }
+    },
+    {
+      "title": "Flasks",
+      "color": 16246840,
+      "fields": [
+        {
+          "name": "Flask of the Titans",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Flask of Supreme Power",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Flask of Petrification",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Flask of Distilled Wisdom",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Flask of Chromatic Resistance",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_potion_62.jpg"
+      }
+    },
+    {
+      "title": "Elixirs",
+      "color": 6637823,
+      "fields": [
+        {
+          "name": "Elixir of the Mongoose",
+          "value": "Keltai, Antah, Diemondy",
+          "inline": true
+        },
+        {
+          "name": "Elixir of Giants",
+          "value": "Keltai, Antah, Diemondy",
+          "inline": true
+        },
+        {
+          "name": "Elixir of Brute Force",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Arcane Elixir",
+          "value": "Keltai",
+          "inline": true
+        },
+        {
+          "name": "Elixir of Frost Power",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Elixir of the Sages",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Elixir of Greater Firepower",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_potion_32.jpg"
+      }
+    },
+    {
+      "title": "Potions",
+      "color": 1664094,
+      "fields": [
+        {
+          "name": "Greater Nature Protection Potion",
+          "value": "Diemondy",
+          "inline": true
+        },
+        {
+          "name": "Greater Shadow Protection Potion",
+          "value": "Diemondy",
+          "inline": true
+        },
+        {
+          "name": "Greater Fire Protection Potion",
+          "value": "Junglemasive",
+          "inline": true
+        },
+        {
+          "name": "Greater Arcane Protection Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Frost Protection Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Greater Stoneshield Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Mighty Rage Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Limited Invulnerability Potion",
+          "value": "Keltai, Antah",
+          "inline": true
+        },
+        {
+          "name": "Gift of Arthas",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Invisibility Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Wildvine Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Magic Resistance Potion",
+          "value": "Keltai, Antah",
+          "inline": true
+        },
+        {
+          "name": "Mighty Troll's Blood Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Major Mana Potion",
+          "value": "NA",
+          "inline": true
+        },
+        {
+          "name": "Major Rejuvenation Potion",
+          "value": "NA",
+          "inline": true
+        }
+      ],
+      "thumbnail": {
+        "url": "https://wow.zamimg.com/images/wow/icons/large/inv_potion_83.jpg"
+      }
+    }
+  ],
+  "username": "Alchemy",
+  "avatar_url": "https://wow.zamimg.com/images/wow/icons/large/trade_alchemy.jpg"
+}
