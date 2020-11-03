@@ -1,5 +1,3 @@
-![Shock Tops Logo](https://cdn.discordapp.com/attachments/764258885711167521/764414149979406336/shock_tops_large.png)
-
 # Shock Tops Guild Professions
 
 This is a list of the JSON data that makes up the webhooks for the Shock Tops guild Discord server to organize and coordinate information. It was created and is maintained by @ReynoldsCahoon
